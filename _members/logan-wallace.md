@@ -5,8 +5,8 @@ role: Bioinformatician
 group: lab_member
 links:
   email: lwallac2@fredhutch.org
-  github: logan_github
-  linkedin: logan_linkedin
+  github: Logan-Wallace
+  linkedin: logan-wallace-357bb3122
 ---
 
 Logan co-leads the computational efforts in the Meshinchi lab.
