@@ -6,6 +6,14 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+manager:
+  icon: fa-solid fa-dna
+  description: Genomics Research Manager
+
+bioinformatician:
+  icon: fa-solid fa-code
+  description: Computational Biologist
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -17,10 +25,6 @@ phd:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
-
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
 
 mascot:
   icon: fa-solid fa-dog
