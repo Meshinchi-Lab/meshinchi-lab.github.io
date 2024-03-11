@@ -1,6 +1,6 @@
 ---
 name: Rhonda Ries
-image: images/Rhonda.jpg
+image: images/Rhonda.jpeg
 description: Genomics Research Manager
 role: manager
 links:
