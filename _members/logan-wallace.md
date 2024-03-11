@@ -1,6 +1,6 @@
 ---
 name: Logan Wallace
-image: Logan/photo.jpg
+image: images/Logan.jpg
 role: Bioinformatician
 group: lab_member
 links:
