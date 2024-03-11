@@ -1,7 +1,8 @@
 # site properties and page defaults
-title: Logan-Wallace
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: The Meshinchi Lab
+subtitle: At Fred Hutch Cancer Center
+description: Welcome to the Meshinchi Lab at Fred Hutch. Led by Soheil Meshinchi, M.D., Ph.D., our research laboratory is studying genomic expression of acute myeloid leukemia-restricted targets on the cell surface that are ideal for immunotherapeutic targeting with chimeric antigen receptor T-cell (CAR T) therapies, as well as identifying and validating target genes for further immunotherapy development.
+logo-text: true
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +10,9 @@ proofer: false
 # site social media and other links
 links:
   email: contact@Logan-Wallace.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-6276-4423
   google-scholar: ETJoidYAAAAJ
-  github: Logan-Wallace
-  twitter: Logan-Wallace
-  youtube: Logan-Wallace
+  github: Meshinchi-Lab
 
 ### jekyll settings
 
