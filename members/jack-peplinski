@@ -568,7 +568,7 @@
   
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Jack Peplinski, MSc">
-    <img src="/images/photo.jpeg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+    <img src="/images/jack.jpeg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-text">
@@ -603,6 +603,23 @@
       <i class="icon fa-solid fa-envelope"></i>
       
         <span>Email</span>
+      
+    </a>
+  </div>
+
+<br />
+  
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/https://github.com/jpeplin" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+      <i class="icon fa-brands fa-github"></i>
+      
+        <span>GitHub</span>
       
     </a>
   </div>
