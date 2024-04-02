@@ -1,6 +1,6 @@
 ---
 name: Jack Peplinski, MSc
-image: images/jack.jpeg
+image: images/Jack.jpeg
 role: bioinformatician
 group: lab_member
 links:
