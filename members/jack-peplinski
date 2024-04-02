@@ -40,7 +40,7 @@
 
 <title>Jack Peplinski, MSc | The Meshinchi Lab</title>
 
-<link rel="icon" href="/meshinchi-lab-website/images/icon.png">
+<link rel="icon" href="/images/icon.png">
 
 <meta name="title" content="Jack Peplinski, MSc">
 <meta name="description" content="At Fred Hutch Cancer Center. Welcome to the Meshinchi Lab at Fred Hutch. Led by Soheil Meshinchi, M.D., Ph.D., our research laboratory is studying genomic expression of acute myeloid leukemia-restricted targets on the cell surface that are ideal for immunotherapeutic targeting with chimeric antigen receptor T-cell (CAR T) therapies, as well as identifying and validating target genes for further immunotherapy development.">
@@ -48,15 +48,15 @@
 <meta property="og:title" content="Jack Peplinski, MSc">
 <meta property="og:site_title" content="The Meshinchi Lab">
 <meta property="og:description" content="At Fred Hutch Cancer Center. Welcome to the Meshinchi Lab at Fred Hutch. Led by Soheil Meshinchi, M.D., Ph.D., our research laboratory is studying genomic expression of acute myeloid leukemia-restricted targets on the cell surface that are ideal for immunotherapeutic targeting with chimeric antigen receptor T-cell (CAR T) therapies, as well as identifying and validating target genes for further immunotherapy development.">
-<meta property="og:url" content="/meshinchi-lab-website">
-<meta property="og:image" content="/meshinchi-lab-website/images/share.jpg">
+<meta property="og:url" content="">
+<meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Jack Peplinski, MSc">
 <meta property="twitter:description" content="At Fred Hutch Cancer Center. Welcome to the Meshinchi Lab at Fred Hutch. Led by Soheil Meshinchi, M.D., Ph.D., our research laboratory is studying genomic expression of acute myeloid leukemia-restricted targets on the cell surface that are ideal for immunotherapeutic targeting with chimeric antigen receptor T-cell (CAR T) therapies, as well as identifying and validating target genes for further immunotherapy development.">
-<meta property="twitter:url" content="/meshinchi-lab-website">
+<meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:image" content="/meshinchi-lab-website/images/share.jpg">
+<meta property="twitter:image" content="/images/share.jpg">
 
 
   <meta property="og:type" content="website">
@@ -73,13 +73,13 @@
     "headline": "Jack Peplinski, MSc",
     "publisher": {
       "@type": "Organization",
-      "logo": { "@type": "ImageObject", "url": "/meshinchi-lab-website/images/icon.png" }
+      "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
     },
-    "url": "/meshinchi-lab-website"
+    "url": ""
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="/meshinchi-lab-website/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -111,308 +111,308 @@
 
   
     <link
-      href="/meshinchi-lab-website/_styles/-theme.css"
+      href="/_styles/-theme.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/alert.css"
+      href="/_styles/alert.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/all.css"
+      href="/_styles/all.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/anchor.css"
+      href="/_styles/anchor.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/background.css"
+      href="/_styles/background.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/body.css"
+      href="/_styles/body.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/bold.css"
+      href="/_styles/bold.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/button.css"
+      href="/_styles/button.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/card.css"
+      href="/_styles/card.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/checkbox.css"
+      href="/_styles/checkbox.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/citation.css"
+      href="/_styles/citation.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/code.css"
+      href="/_styles/code.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/cols.css"
+      href="/_styles/cols.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/dark-toggle.css"
+      href="/_styles/dark-toggle.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/feature.css"
+      href="/_styles/feature.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/figure.css"
+      href="/_styles/figure.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/float.css"
+      href="/_styles/float.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/font.css"
+      href="/_styles/font.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/footer.css"
+      href="/_styles/footer.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/form.css"
+      href="/_styles/form.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/grid.css"
+      href="/_styles/grid.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/header.css"
+      href="/_styles/header.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/heading.css"
+      href="/_styles/heading.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/highlight.css"
+      href="/_styles/highlight.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/icon.css"
+      href="/_styles/icon.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/image.css"
+      href="/_styles/image.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/link.css"
+      href="/_styles/link.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/list.css"
+      href="/_styles/list.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/main.css"
+      href="/_styles/main.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/paragraph.css"
+      href="/_styles/paragraph.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/portrait.css"
+      href="/_styles/portrait.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/post-excerpt.css"
+      href="/_styles/post-excerpt.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/post-info.css"
+      href="/_styles/post-info.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/post-nav.css"
+      href="/_styles/post-nav.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/quote.css"
+      href="/_styles/quote.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/rule.css"
+      href="/_styles/rule.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/search-box.css"
+      href="/_styles/search-box.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/search-info.css"
+      href="/_styles/search-info.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/section.css"
+      href="/_styles/section.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/table.css"
+      href="/_styles/table.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/tags.css"
+      href="/_styles/tags.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/textbox.css"
+      href="/_styles/textbox.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/tooltip.css"
+      href="/_styles/tooltip.css"
       rel="stylesheet"
     />
   
 
   
     <link
-      href="/meshinchi-lab-website/_styles/util.css"
+      href="/_styles/util.css"
       rel="stylesheet"
     />
   
@@ -430,19 +430,19 @@
 <!-- include all js in scripts folder -->
 
 
-  <script src="/meshinchi-lab-website/_scripts/anchors.js"></script>
+  <script src="/_scripts/anchors.js"></script>
 
-  <script src="/meshinchi-lab-website/_scripts/dark-mode.js"></script>
+  <script src="/_scripts/dark-mode.js"></script>
 
-  <script src="/meshinchi-lab-website/_scripts/fetch-tags.js"></script>
+  <script src="/_scripts/fetch-tags.js"></script>
 
-  <script src="/meshinchi-lab-website/_scripts/search.js"></script>
+  <script src="/_scripts/search.js"></script>
 
-  <script src="/meshinchi-lab-website/_scripts/site-search.js"></script>
+  <script src="/_scripts/site-search.js"></script>
 
-  <script src="/meshinchi-lab-website/_scripts/table-wrap.js"></script>
+  <script src="/_scripts/table-wrap.js"></script>
 
-  <script src="/meshinchi-lab-website/_scripts/tooltip.js"></script>
+  <script src="/_scripts/tooltip.js"></script>
 
 
 </head>
@@ -458,17 +458,17 @@
 
 <header
   class="background"
-  style="--image: url('/meshinchi-lab-website/images/background.jpeg')"
+  style="--image: url('/images/background.jpeg')"
   
     data-dark="true"
   
   
 >
-  <a href="/meshinchi-lab-website/" class="home">
+  <a href="/" class="home">
     
       <span class="logo">
         
-          <img src="/meshinchi-lab-website/images/logo.png" alt="logo">
+          <img src="/images/logo.png" alt="logo">
         
       </span>
     
@@ -491,7 +491,7 @@
     
       
         <a
-          href="/meshinchi-lab-website/research/"
+          href="/research/"
           data-tooltip="Published works"
         >
           Research
@@ -500,7 +500,7 @@
     
       
         <a
-          href="/meshinchi-lab-website/projects/"
+          href="/projects/"
           data-tooltip="Software, datasets, and more"
         >
           Projects
@@ -509,7 +509,7 @@
     
       
         <a
-          href="/meshinchi-lab-website/team/"
+          href="/team/"
           data-tooltip="About our team"
         >
           Team
@@ -518,7 +518,7 @@
     
       
         <a
-          href="/meshinchi-lab-website/blog/"
+          href="/blog/"
           data-tooltip="Musings and miscellany"
         >
           Blog
@@ -527,7 +527,7 @@
     
       
         <a
-          href="/meshinchi-lab-website/contact/"
+          href="/contact/"
           data-tooltip="Email, address, and location"
         >
           Contact
@@ -568,7 +568,7 @@
   
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Jack Peplinski, MSc">
-    <img src="/meshinchi-lab-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/meshinchi-lab-website/images/fallback.svg'; this.onerror = null;" />
+    <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-text">
@@ -606,7 +606,7 @@ Jack Peplinski co-leads the computational team in the Meshinchi lab!
 
 
 <p class="center">
-  <a href="/meshinchi-lab-website/research/?search=%22Jack%20Peplinski%22%20%22MSc%22%20">
+  <a href="/research/?search=%22Jack%20Peplinski%22%20%22MSc%22%20">
     Search for Jack Peplinski, MSc's papers on the Research page
   </a>
 </p>
@@ -615,7 +615,7 @@ Jack Peplinski co-leads the computational team in the Meshinchi lab!
 
 <!--
 <p class="center">
-  <a href="/meshinchi-lab-website/blog/?search=Jack%20Peplinski,%20MSc">
+  <a href="/blog/?search=Jack%20Peplinski,%20MSc">
     See Jack Peplinski, MSc's posts on the Blog page
   </a>
 </p>
@@ -629,7 +629,7 @@ Jack Peplinski co-leads the computational team in the Meshinchi lab!
 
 <footer
   class="background"
-  style="--image: url('/meshinchi-lab-website/images/background.jpeg')"
+  style="--image: url('/images/background.jpeg')"
   
     data-dark="true"
   
