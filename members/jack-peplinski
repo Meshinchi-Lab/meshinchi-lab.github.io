@@ -568,7 +568,7 @@
   
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Jack Peplinski, MSc">
-    <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+    <img src="/images/photo.jpeg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-text">
@@ -592,6 +592,23 @@
 
 <div>
   
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:jpeplins@fredhutch.org" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+        <span>Email</span>
+      
+    </a>
+  </div>
+
+<br />
+  
 </div>
 
 
@@ -599,6 +616,7 @@
 
 
 Jack Peplinski co-leads the computational team in the Meshinchi lab!
+
 
 
 
