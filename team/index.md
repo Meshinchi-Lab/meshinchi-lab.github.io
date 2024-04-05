@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-First
+Lab Members
 
 {% include section.html %}
 
@@ -17,7 +17,7 @@ First
 
 {% include section.html background="images/background.jpeg" dark=true %}
 
-Second
+Collaborators
 
 {% include section.html %}
 
