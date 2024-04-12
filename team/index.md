@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Meet Our Lab
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
@@ -13,7 +13,8 @@ Lab Members
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: manager" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: fellow" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|manager|fellow)" %}
 
 {% include section.html background="images/background.jpeg" dark=true %}
 
