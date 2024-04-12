@@ -14,13 +14,13 @@ bioinformatician:
   icon: fa-solid fa-code
   description: Computational Biologist
 
-postdoc:
+fellow:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Fellow
 
-phd:
+technician:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Laboratory Technician
 
 undergrad:
   icon: fa-solid fa-user-graduate
