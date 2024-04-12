@@ -1,18 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: https://doi.org/10.1038/nature25795
+  title: Pan-cancer genome and transcriptome analyses of 1,699 paediatric leukaemias
+    and solid tumours
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
+  - Xiaotu Ma
+  - Yu Liu
+  - Yanling Liu
+  - Ludmil B. Alexandrov
+  - Michael N. Edmonson
+  - Charles Gawad
+  - Xin Zhou
+  - Yongjin Li
+  - Michael C. Rusch
+  - John Easton
+  - Robert Huether
+  - Veronica Gonzalez-Pena
+  - Mark R. Wilkinson
+  - Leandro C. Hermida
+  - Sean Davis
+  - Edgar Sioson
+  - Stanley Pounds
+  - Xueyuan Cao
+  - Rhonda E. Ries
+  - Zhaoming Wang
+  - Xiang Chen
+  - Li Dong
+  - Sharon J. Diskin
+  - Malcolm A. Smith
+  - Jaime M. Guidry Auvil
+  - Paul S. Meltzer
+  - Ching C. Lau
+  - Elizabeth J. Perlman
+  - John M. Maris
+  - Soheil Meshinchi
+  - Stephen P. Hunger
+  - Daniela S. Gerhard
+  - Jinghui Zhang
+  publisher: Nature
   date: '2020-12-04'
-  link: https://doi.org/c7np
+  link: https://www.nature.com/articles/nature25795
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
