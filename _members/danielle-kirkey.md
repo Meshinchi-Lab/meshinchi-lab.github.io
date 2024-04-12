@@ -1,6 +1,6 @@
 ---
 name: Dr. Danielle Kirkey
-image: images/danielle.jpeg
+image: images/Danielle.jpg
 role: fellow
 group: lab_member
 links:
