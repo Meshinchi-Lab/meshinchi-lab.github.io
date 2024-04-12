@@ -3,6 +3,7 @@ name: Rhonda Ries
 image: images/Rhonda.jpeg
 description: Genomics Research Manager
 role: manager
+group: lab_member
 links:
   email: rries@fredhutch.org
 ---
