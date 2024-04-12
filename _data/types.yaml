@@ -11,7 +11,7 @@ manager:
   description: Genomics Research Manager
 
 bioinformatician:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-laptop-code
   description: Computational Biologist
 
 fellow:
@@ -19,7 +19,7 @@ fellow:
   description: Fellow
 
 technician:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-flask
   description: Laboratory Technician
 
 undergrad:
