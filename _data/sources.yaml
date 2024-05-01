@@ -1,7 +1,7 @@
 - id: https://doi.org/10.1101/632166
   type: paper
   description: We present a consensus machine learning approach to identify gene targets of likely importance for pediatric AML risk.
-  date: 2019-10-05
+  date: 2019-05-10
   image: https://www.biorxiv.org/content/biorxiv/early/2019/05/10/632166/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - computational biology
@@ -12,7 +12,7 @@
 - id: https://doi.org/10.1172/JCI157101
   type: paper
   description: Identification of FOLR1 as a CART cell target and demonstration of preclinical efficacy in vivo. 
-  date: 2022-15-11
+  date: 2022-11-15
   image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/157000/157101/medium/JCI157101.f6.jpg
   tags:
     - CART
@@ -24,7 +24,7 @@
 - id: https://doi.org/10.1016/j.ccell.2023.10.008
   type: paper
   description:  We used single-cell RNA sequencing and single-cell ATAC sequencing to profile 28 patients representing different pAML subtypes at diagnosis, remission and relapse. 
-  date: 2023-12-11
+  date: 2023-11-12
   image: https://www.cell.com/cms/attachment/ca06d36f-62c1-4e47-8cb1-9f3fa34f262d/gr5.jpg
   tags:
     - single cell
