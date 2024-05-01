@@ -9,7 +9,7 @@
     - machine learning
     - risk classification
 
-  - id: https://doi.org/10.1172/JCI157101
+- id: https://doi.org/10.1172/JCI157101
   type: paper
   description: Identification of FOLR1 as a CART cell target and demonstration of preclinical efficacy in vivo. 
   date: 2022-15-11
@@ -21,7 +21,7 @@
     - therapy
     - target
 
-  - id: https://doi.org/10.1016/j.ccell.2023.10.008
+- id: https://doi.org/10.1016/j.ccell.2023.10.008
   type: paper
   description:  We used single-cell RNA sequencing and single-cell ATAC sequencing to profile 28 patients representing different pAML subtypes at diagnosis, remission and relapse. 
   date: 2023-12-11
