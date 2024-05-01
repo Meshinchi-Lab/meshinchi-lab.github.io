@@ -5,13 +5,13 @@ description: Welcome to the Meshinchi Lab at Fred Hutch. Led by Soheil Meshinchi
 logo-text: true
 header: images/background.jpeg
 footer: images/background.jpeg
-proofer: false
+proofer: true
 
 # site social media and other links
 links:
-  email: contact@Logan-Wallace.com
+  email: lwallac2@fredhutch.org
   orcid: 0000-0002-6276-4423
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: n2nvqJAAAAAJ
   github: Meshinchi-Lab
 
 ### jekyll settings
