@@ -13,7 +13,11 @@ Take a look at some of the publications from our lab.
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Consensus Machine Learning for Gene Target Selection in Pediatric AML Risk" style="rich" %}
+
+{% include citation.html lookup="CBFA2T3-GLIS2 model of pediatric acute megakaryoblastic leukemia identifies" style="rich" %}
+
+{% include citation.html lookup="https://doi.org/10.1016/j.ccell.2023.10.008" style="rich" %}
 
 {% include section.html %}
 
