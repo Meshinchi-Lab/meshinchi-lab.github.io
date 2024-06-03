@@ -26,7 +26,7 @@ Take a look at some of the publications from the Meshinchi lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Nature_Medicine_Cover.png"
   link="research"
   title="Publications"
   text=text
