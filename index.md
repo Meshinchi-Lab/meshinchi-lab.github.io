@@ -74,7 +74,7 @@ Meet the members of the Meshinchi lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Lab_Member.jpeg"
   link="team"
   title="Our Team"
   text=text
