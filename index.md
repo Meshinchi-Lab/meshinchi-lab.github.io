@@ -49,7 +49,7 @@ Take a look at some of the projects which are ongoing in the lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Prame_TCR_Poster.png"
   link="projects"
   title="Our Projects"
   flip=true
