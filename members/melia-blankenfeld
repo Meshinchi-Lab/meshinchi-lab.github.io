@@ -600,9 +600,11 @@
 
   <div class="button-wrapper">
     <a class="button" href="mailto:mblanken@fredhutch.org" data-tooltip="Email" data-style="bare" aria-label="Email">
-      <i class="icon fa-solid fa-envelope"></i>
       
-        <span>Email</span>
+        
+          <span>Email</span>
+        
+        <i class="icon fa-solid fa-envelope"></i>
       
     </a>
   </div>
@@ -676,7 +678,9 @@
       
       aria-label="Email"
     >
-      <i class="icon fa-solid fa-envelope"></i>
+      
+        
+        <i class="icon fa-solid fa-envelope"></i>
       
     </a>
   </div>
@@ -700,7 +704,9 @@
       
       aria-label="ORCID"
     >
-      <i class="icon fa-brands fa-orcid"></i>
+      
+        
+        <i class="icon fa-brands fa-orcid"></i>
       
     </a>
   </div>
@@ -724,7 +730,9 @@
       
       aria-label="Google Scholar"
     >
-      <i class="icon fa-brands fa-google"></i>
+      
+        
+        <i class="icon fa-brands fa-google"></i>
       
     </a>
   </div>
@@ -748,7 +756,9 @@
       
       aria-label="GitHub"
     >
-      <i class="icon fa-brands fa-github"></i>
+      
+        
+        <i class="icon fa-brands fa-github"></i>
       
     </a>
   </div>
