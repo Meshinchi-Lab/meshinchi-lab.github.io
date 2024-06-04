@@ -29,3 +29,81 @@
   tags:
     - single cell
     - subtype
+
+  - id: https://doi.org/10.1200/JCO.2010.30.7405
+  type: paper
+  description: We review recent advances in the biologic understanding and treatment of childhood acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML), identify therapeutically challenging subgroups, and suggest future directions of research.
+  date: 2010-01-10
+  image: https://ascopubs.org/cms/10.1200/JCO.2010.30.7405/asset/images/zlj9991007500001.jpeg
+  tags:
+    - review
+    - risk
+    - stratification
+    - therapy
+    - biology
+
+  - id: https://doi.org/10.1038/nature25795
+  type: paper
+  description: Here we present a pan-cancer study of somatic alterations, including single nucleotide variants, small insertions or deletions, structural variations, copy number alterations, gene fusions and internal tandem duplications in 1,699 paediatric leukaemias and solid tumours across six histotypes, with whole-genome, whole-exome and transcriptome sequencing data processed under a uniform analytical framework.
+  date: 2018-02-28
+  image: https://www.nature.com/articles/nature25795/figures/1
+  tags:
+    - pan cancer
+    - evolution
+    - transcriptome
+
+  - id: https://doi.org/10.1182/blood.V97.1.89
+  type: paper
+  description: Multivariate analysis demonstrated that presence of the Flt3/ITD was the single most significant, independent prognostic factor for poor outcome (P = .009) in pediatric AML.
+  date: 2001-01-01
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/97/1/10.1182_blood.v97.1.89/6/m_h80110550003.jpeg?Expires=1720518417&Signature=Eat0ZUQSs0bWjAuU35KubdlRWRVTKx5LKZBANxiR16Lopr6uY6ZijbuIUSFBuk5gQ7RAPFS3Xov4yXIYxTLRrtLMB7Sirdsty~2jC91-3P6972-KON9w70azTsMbmkDnqfZ4F7hRjiuyt2ddy3MQqImmi7h5Ei0T5rFpg0PO5kZYqsoyEp-EABNu8PuNQ2rCiq04lXZ1bj-zHeeyr7WFfytEEsV~jb05CzaHzXIsso269KeZTYjBHLiQPWE5YtGK4tFAX-uU4B01PXpeoGDgrWMK~o3OvMT3DlGY52JB38-GWgAYPjpwXQ786rTa6zbxAcHAOvD~lBQoqS3OCzZ4Sg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - flt3
+    - prognostic
+    - flt3 itd
+
+- id: https://doi.org/10.1038/nm.4439
+  type: paper
+  description: We present the molecular landscape of pediatric acute myeloid leukemia (AML) and characterize nearly 1,000 participants in Children's Oncology Group (COG) AML trials.
+  date: 2017-12-11
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnm.4439/MediaObjects/41591_2018_Article_BFnm4439_Fig2_HTML.jpg?
+  tags:
+    - structural alteration
+    - mutations
+    - molecular landscape
+
+- id: https://doi.org/10.1182/blood-2012-03-362608
+  type: paper
+  description: This paper aims to discuss differences between childhood and adult AML, and to highlight recommendations that are specific to children.
+  date: 2012-10-18
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/120/16/10.1182_blood-2012-03-362608/4/m_zh89991296780001.jpeg?Expires=1720517032&Signature=OrHEIZpIlU20LLvojwbRqqcA5Ma8xUaxK9ZT2exlSN-9Aje8n85Q~o~Sd2vercdx3p01bvupI4h8lUBPjg2OyKJuX3RYCWjktXG9dUR07tXbrHt1vov-0b69Ss6k2EYEc-XFJmwB1enAt5OVFBh5kx9sd3qNUnNUI6-ko3~M8U8MKwqwvXBv-POSQgLs-jv25Na01NFjV9ggwu78LGEem158Fjy1xPv6mPCsOUNr8ydDEjvOFY4FfprpgJilVy7vTQQMBGasRRytORdqq-VjDKirZZ9h1zTRZb0XAgpHGLcazUr4wHbzHQrjpuhSZmqTAbCr5gCj-7waYvSJBuT2QA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - myeloblastic leukemia
+    - pediatric acute
+    - chemotherapy regimen
+    - hematopoietic stem cell transplantation
+    - supportive care
+
+  - id: https://doi.org/10.1016/S1470-2045(10)70090-5
+  type: paper
+  description: We sought to improve outcome in patients with childhood acute myeloid leukaemia (AML) by applying risk-directed therapy that was based on genetic abnormalities of the leukaemic cells and measurements of minimal residual disease (MRD) done by flow cytometry during treatment.
+  date: 2010-05-06
+  image: https://www.thelancet.com/cms/attachment/4cd00835-f94d-4374-84e5-0d6c029f832b/gr2.gif
+  tags:
+
+  - id: https://doi.org/10.1182/blood.V97.11.3589
+  type: paper
+  description: These results indicate that mutations in FLT3, RAS, or TP53 are common in older patients with AML and are associated with specific AML phenotypes as defined by laboratory values, cytogenetics, and clinical outcomes.
+  date: 2001-06-01
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/97/11/10.1182_blood.v97.11.3589/6/m_h81111136001.jpeg?Expires=1720534054&Signature=KgFhqDO4VXteBvojs0Adg2tx36pdDRzMglkABXvBbXlVyX3RGcngkD8PNvnSVDP-7EAj9Y0mmlTyiBTugcN9DA14wYN4iajzI1ZlMlE8N0iAqdCgYz~SzwLuKUsrR1--ANLCaAb5WaXkOH8V0L~8wnZrWT2ZUyQBTUMfKNccC8SK2J~X7yYnAAZwjSAAAEK8Fdzw~j1q5G6KlCX~FQwMjFngvVbAeJEDzcpXvnwMhfrMDT54GEwxLCydHgQgjr89zy99z48P8q7C5I-tnvekpvjKLhRPRH1JN~Ch4~ModHpQ~uxTHKAQA8~NQPSUEfu27iZVhCNMBNF0oAqett3SxQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - flt3
+    - leukemia
+    - myelocytic
+    - acute
+    - ms-like tyrosine kinase
+    - mutation
+    - older adult
+    - p53
+    - tp53
+    - polymerase chain reaction
