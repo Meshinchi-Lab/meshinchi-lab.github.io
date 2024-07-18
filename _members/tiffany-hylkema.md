@@ -1,7 +1,7 @@
 ---
 name: Tiffany Hylkema
 image: images/Tiffany.jpeg
-role: technician
+role: supervisor
 group: lab_member
 links:
   email: thylkema@fredhutch.org
