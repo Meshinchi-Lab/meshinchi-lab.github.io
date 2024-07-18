@@ -1227,6 +1227,36 @@
   - target
   plugin: sources.py
   file: sources.yaml
+- title: A longitudinal single-cell atlas of treatment response in pediatric AML
+  authors:
+  - '**Sander Lambo**'
+  - Diane L. Trinh
+  - Rhonda E. Ries
+  - Dan Jin
+  - Audi Setiadi
+  - Michelle Ng
+  - Veronique G. Leblanc
+  - Michael R. Loken
+  - Lisa E. Broderson
+  - Fangyan Dai
+  - Laura M. Pardo
+  - Xiaotu Ma
+  - Suzanne M. Vercauteren
+  - Soheil Meshinchi
+  - Marco A. Marra
+  publisher: Cancer Cell
+  type: paper
+  description: We used single-cell RNA sequencing and single-cell ATAC sequencing
+    to profile 28 patients representing different pAML subtypes at diagnosis, remission
+    and relapse.
+  date: ''
+  image: https://www.cell.com/cms/attachment/ca06d36f-62c1-4e47-8cb1-9f3fa34f262d/gr5.jpg
+  link: https://doi.org/10.1016/j.ccell.2023.10.008
+  tags:
+  - single cell
+  - subtype
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1200/JCO.2010.30.7405
   title: 'Biology, Risk Stratification, and Therapy of Pediatric Acute Leukemias:
     An Update'
