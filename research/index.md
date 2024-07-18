@@ -17,7 +17,7 @@ Take a look at some of the publications from our lab.
 
 {% include citation.html lookup="CBFA2T3-GLIS2 model of pediatric acute megakaryoblastic leukemia identifies" style="rich" %}
 
-{% include citation.html lookup="https://doi.org/10.1016/j.ccell.2023.10.008" style="rich" %}
+{% include citation.html lookup="A longitudinal single-cell atlas of treatment response in pediatric AML" style="rich" %}
 
 {% include section.html %}
 
