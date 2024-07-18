@@ -21,7 +21,7 @@
     - therapy
     - target
 
-  - id: https://doi.org/10.1200/JCO.2010.30.7405
+- id: https://doi.org/10.1200/JCO.2010.30.7405
   type: paper
   description: We review recent advances in the biologic understanding and treatment of childhood acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML), identify therapeutically challenging subgroups, and suggest future directions of research.
   date: 2010-01-10
@@ -33,7 +33,7 @@
     - therapy
     - biology
 
-  - id: https://doi.org/10.1038/nature25795
+- id: https://doi.org/10.1038/nature25795
   type: paper
   description: Here we present a pan-cancer study of somatic alterations, including single nucleotide variants, small insertions or deletions, structural variations, copy number alterations, gene fusions and internal tandem duplications in 1,699 paediatric leukaemias and solid tumours across six histotypes, with whole-genome, whole-exome and transcriptome sequencing data processed under a uniform analytical framework.
   date: 2018-02-28
@@ -43,7 +43,7 @@
     - evolution
     - transcriptome
 
-  - id: https://doi.org/10.1182/blood.V97.1.89
+- id: https://doi.org/10.1182/blood.V97.1.89
   type: paper
   description: Multivariate analysis demonstrated that presence of the Flt3/ITD was the single most significant, independent prognostic factor for poor outcome (P = .009) in pediatric AML.
   date: 2001-01-01
@@ -75,13 +75,13 @@
     - hematopoietic stem cell transplantation
     - supportive care
 
-  - id: https://doi.org/10.1016/S1470-2045(10)70090-5
+- id: https://doi.org/10.1016/S1470-2045(10)70090-5
   type: paper
   description: We sought to improve outcome in patients with childhood acute myeloid leukaemia (AML) by applying risk-directed therapy that was based on genetic abnormalities of the leukaemic cells and measurements of minimal residual disease (MRD) done by flow cytometry during treatment.
   date: 2010-05-06
   image: https://www.thelancet.com/cms/attachment/4cd00835-f94d-4374-84e5-0d6c029f832b/gr2.gif
 
-  - id: https://doi.org/10.1182/blood.V97.11.3589
+- id: https://doi.org/10.1182/blood.V97.11.3589
   type: paper
   description: These results indicate that mutations in FLT3, RAS, or TP53 are common in older patients with AML and are associated with specific AML phenotypes as defined by laboratory values, cytogenetics, and clinical outcomes.
   date: 2001-06-01
