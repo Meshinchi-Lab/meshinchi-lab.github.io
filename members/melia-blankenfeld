@@ -491,19 +491,19 @@
     
       
         <a
-          href="/research/"
+          href="/publications/"
           data-tooltip="Published works"
         >
-          Research
+          Publications
         </a>
       
     
       
         <a
-          href="/projects/"
+          href="/research/"
           data-tooltip="Software, datasets, and more"
         >
-          Projects
+          Research
         </a>
       
     
