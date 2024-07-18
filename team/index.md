@@ -14,8 +14,9 @@ Lab Members
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: manager" %}
 {% include list.html data="members" component="portrait" filters="role: fellow" %}
+{% include list.html data="members" component="portrait" filters="role: supervisor" %}
 {% include list.html data="members" component="portrait" filters="role: bioinformatician" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|manager|fellow|bioinformatician)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|manager|fellow|supervisor|bioinformatician)" %}
 
 {% include section.html background="images/background.jpeg" dark=true %}
 
