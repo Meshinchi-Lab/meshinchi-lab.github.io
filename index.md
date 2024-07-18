@@ -1,7 +1,7 @@
 ---
 ---
 
-# Meshinchi Lab Website
+# The Meshinchi Lab
 
 Welcome to the Meshinchi Lab at Fred Hutch. Led by Soheil Meshinchi, M.D., Ph.D., our research laboratory is studying genomic expression of acute myeloid leukemia-restricted targets on the cell surface that are ideal for immunotherapeutic targeting with chimeric antigen receptor T-cell (CAR T) therapies, as well as identifying and validating target genes for further immunotherapy development.
 
@@ -15,7 +15,7 @@ Take a look at some of the publications from the Meshinchi lab.
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-left"
   flip=true
@@ -27,7 +27,7 @@ Take a look at some of the publications from the Meshinchi lab.
 {%
   include feature.html
   image="images/Nature_Medicine_Cover.png"
-  link="research"
+  link="publications"
   title="Publications"
   text=text
 %}
@@ -38,7 +38,7 @@ Take a look at some of the projects which are ongoing in the lab.
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@ Take a look at some of the projects which are ongoing in the lab.
 {%
   include feature.html
   image="images/Prame_TCR_Poster.png"
-  link="projects"
+  link="research"
   title="Our Projects"
   flip=true
   style="bare"
