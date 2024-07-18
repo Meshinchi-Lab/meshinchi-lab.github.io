@@ -21,6 +21,33 @@
     - therapy
     - target
 
+- title: A longitudinal single-cell atlas of treatment response in pediatric AML
+  authors:
+    - "**Sander Lambo**"
+    - Diane L. Trinh
+    - Rhonda E. Ries
+    - Dan Jin
+    - Audi Setiadi
+    - Michelle Ng
+    - Veronique G. Leblanc
+    - Michael R. Loken
+    - Lisa E. Broderson
+    - Fangyan Dai
+    - Laura M. Pardo
+    - Xiaotu Ma
+    - Suzanne M. Vercauteren
+    - Soheil Meshinchi
+    - Marco A. Marra
+  publisher: Cancer Cell
+  type: paper
+  description:  We used single-cell RNA sequencing and single-cell ATAC sequencing to profile 28 patients representing different pAML subtypes at diagnosis, remission and relapse. 
+  date: 2023-11-12
+  image: https://www.cell.com/cms/attachment/ca06d36f-62c1-4e47-8cb1-9f3fa34f262d/gr5.jpg
+  link: https://doi.org/10.1016/j.ccell.2023.10.008
+  tags:
+    - single cell
+    - subtype
+
 - id: https://doi.org/10.1200/JCO.2010.30.7405
   type: paper
   description: We review recent advances in the biologic understanding and treatment of childhood acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML), identify therapeutically challenging subgroups, and suggest future directions of research.
