@@ -18,9 +18,13 @@ fellow:
   icon: fa-solid fa-glasses
   description: Fellow
 
+supervisor:
+  icon: fa-solid fa-flask
+  description: Research Technician Supervisor
+
 technician:
   icon: fa-solid fa-flask
-  description: Laboratory Technician
+  description: Research Technician
 
 undergrad:
   icon: fa-solid fa-user-graduate
