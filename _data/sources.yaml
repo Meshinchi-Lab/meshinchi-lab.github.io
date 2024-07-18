@@ -1,3 +1,6 @@
+- orcid: 0000-0002-6276-4423
+  soheil-meshinchi: true
+
 - id: https://doi.org/10.1101/632166
   type: paper
   description: We present a consensus machine learning approach to identify gene targets of likely importance for pediatric AML risk.
