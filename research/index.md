@@ -17,10 +17,10 @@ Here you can find some of the ongoing research happening in the lab.
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="research" filters="group: featured" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="research" filters="group: " style="small" %}
