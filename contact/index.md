@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The Meshinchi Lab believes strongly that collaboration can lead to better science! Please get in touch with us. 
+The Meshinchi lab is a part of the Fred Hutch Cancer Center Campus located in the heart of Seattle, Washington.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ The Meshinchi Lab believes strongly that collaboration can lead to better scienc
 
 {%
   include figure.html
-  image="images/Soheil.jpg"
+  image="images/Soheil.jpeg"
   caption="Dr. Soheil Meshinchi"
 %}
 
@@ -44,8 +44,8 @@ The Meshinchi Lab believes strongly that collaboration can lead to better scienc
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Fred_Hutch.jpg"
+  caption="Fred Hutch Cancer Center"
 %}
 
 {% endcapture %}
