@@ -7,7 +7,7 @@ Welcome to the Meshinchi Lab at Fred Hutch. Led by Soheil Meshinchi, M.D., Ph.D.
 
 {%
   include figure.html
-  image="images/background.jpg"
+  image="images/background.jpeg"
   caption="The Meshinchi Lab at Fred Hutch Cancer Center"
   width="1000px"
 %}
