@@ -2,6 +2,8 @@
 name: Logan Wallace
 image: images/Logan.jpeg
 role: bioinformatician
+aliases:
+  - Wallace
 group: lab_member
 links:
   email: lwallac2@fredhutch.org
