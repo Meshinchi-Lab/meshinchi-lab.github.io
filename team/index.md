@@ -20,6 +20,4 @@ Lab Members
 
 {% include section.html background="images/background.jpeg" dark=true %}
 
-{% endcapture %}
-
 {% include grid.html style="square" content=content %}
