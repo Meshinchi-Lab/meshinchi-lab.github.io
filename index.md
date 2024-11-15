@@ -22,7 +22,6 @@ Take a look at some of the publications from the Meshinchi lab.
 
 {%
   include button.html
-  icon="fa-solid fa-arrow-left"
   link="publications"
   text="See our publications"
   flip=true
@@ -47,7 +46,6 @@ Take a look at some of the projects which are ongoing in the lab.
   include button.html
   link="research"
   text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
@@ -70,7 +68,6 @@ Meet the members of the Meshinchi lab.
 
 {%
   include button.html
-  icon="fa-solid fa-arrow-left"
   link="team"
   text="Meet our team"
   flip=true
