@@ -458,7 +458,7 @@
 
 <header
   class="background"
-  style="--image: url('/images/molecular_header.jpeg')"
+  style="--image: url('/images/molecular-ai-header.png')"
   
     data-dark="true"
   
@@ -647,7 +647,7 @@
 
 <footer
   class="background"
-  style="--image: url('/images/molecular_footer.jpeg')"
+  style="--image: url('/images/molecular-ai-footer.png')"
   
     data-dark="true"
   
