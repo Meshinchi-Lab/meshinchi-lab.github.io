@@ -2,6 +2,8 @@
 name: Melia Blankenfeld
 image: images/May.jpeg
 role: technician
+aliases:
+  Blankenfeld
 group: lab_member
 links:
   email: mblanken@fredhutch.org
