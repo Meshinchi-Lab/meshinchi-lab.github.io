@@ -2,6 +2,8 @@
 name: Jack Peplinski, MSc
 image: images/Jack.jpeg
 role: bioinformatician
+aliases:
+  - Peplinski
 group: lab_member
 links:
   email: jpeplins@fredhutch.org
