@@ -25,7 +25,7 @@ The Meshinchi Lab believes strongly that collaboration can lead to better scienc
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/eMhAnafCptnPabJF9)"
+  link="https://maps.app.goo.gl/eMhAnafCptnPabJF9"
 %}
 
 {% include section.html %}
