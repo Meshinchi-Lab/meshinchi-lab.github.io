@@ -1450,11 +1450,32 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/S1470-2045(10)70090-5
-  title: ''
-  authors: []
-  publisher: ''
+  title: 'Minimal residual disease-directed therapy for childhood acute myeloid leukaemia:
+    results of the AML02 multicentre trial'
+  authors:
+  - Jeffrey E Rubnitz
+  - Hiroto Inaba
+  - Gary Dahl
+  - Raul C Ribeiro
+  - W Paul Bowman
+  - Jeffrey Taub
+  - Stanley Pounds
+  - Bassem I Razzouk
+  - Norman J Lacayo
+  - Xueyuan Cao
+  - Soheil Meshinchi
+  - Barbara Degar
+  - Gladstone Airewele
+  - Susana C Raimondi
+  - Mihaela Onciu
+  - Elaine Coustan-Smith
+  - James R Downing
+  - Wing Leung
+  - Ching-Hon Pui
+  - Dario Campana
+  publisher: The Lancet Oncology
   date: ''
-  link: https://doi.org/10.1016/S1470-2045(10)70090-5
+  link: https://linkinghub.elsevier.com/retrieve/pii/S1470204510700905
   type: paper
   description: We sought to improve outcome in patients with childhood acute myeloid
     leukaemia (AML) by applying risk-directed therapy that was based on genetic abnormalities
