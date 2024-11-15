@@ -22,9 +22,9 @@ Take a look at some of the publications from the Meshinchi lab.
 
 {%
   include button.html
+  icon="fa-solid fa-arrow-left"
   link="publications"
   text="See our publications"
-  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
@@ -70,9 +70,9 @@ Meet the members of the Meshinchi lab.
 
 {%
   include button.html
+  icon="fa-solid fa-arrow-left"
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
