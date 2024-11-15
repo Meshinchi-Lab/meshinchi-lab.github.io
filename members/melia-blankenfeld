@@ -458,7 +458,7 @@
 
 <header
   class="background"
-  style="--image: url('/images/background.jpeg')"
+  style="--image: url('/images/molecular_header.jpeg')"
   
     data-dark="true"
   
@@ -647,7 +647,7 @@
 
 <footer
   class="background"
-  style="--image: url('/images/background.jpeg')"
+  style="--image: url('/images/molecular_footer.jpeg')"
   
     data-dark="true"
   
