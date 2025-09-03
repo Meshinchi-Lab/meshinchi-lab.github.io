@@ -1,7 +1,7 @@
 
 # Meshinchi Lab Website
 
-Visit **[meshinchilab.com](http://meshinchilab.com)** 
+Visit **[meshinchi-lab.github.io](https://meshinchi-lab.github.io)** 
 
 This repository hosts the code for the Meshinchi lab website. This site is jekyll based, hosted by github pages and uses github actions for automated deployment!
 
